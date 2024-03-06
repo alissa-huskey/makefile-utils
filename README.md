@@ -12,6 +12,13 @@ Simply download `utils.mk` and include it in your makefile.
 include utils.mk
 ```
 
+Example
+-------
+
+An example Makefile is included in this repo.
+
+![demo](demo.gif)
+
 Features
 --------
 
